@@ -6,3 +6,4 @@
   streamlit==0.60.0
   pickle
   json
+ opencv-python-headless
