@@ -1,1 +1,8 @@
 
+ numpy
+  pandas
+  sklearn
+  pickle
+  streamlit==0.60.0
+  pickle
+  json
